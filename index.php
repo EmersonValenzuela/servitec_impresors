@@ -217,7 +217,7 @@
 							<img src="images/ims.png" alt="" class="img-responsive"/>
 						</div>
 						<div class="col-md-6">
-							<h3>¿Cuáles son los usos normales de un <strong>Synology Nas</strong>?</h3>
+							<h3>¿Cuáles son los usos normales de una <strong>Impresora</strong>?</h3>
 							<p>Utilice Synology NAS como un dispositivo de almacenamiento en su entorno de virtualización.</p>
 							<p>Proporcione sincronización y uso compartido perfecto de archivos a través de Windows, macOS y Linux.</p>
 						</div>
