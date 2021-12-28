@@ -26,7 +26,7 @@
 <head>
 <meta charset=UTF-8>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Synology Nas | Servitec Peru</title>
+<title>Impresoras | Servitec Peru</title>
 <link rel="icon" href="images/icon.png" type="image/x-icon">
 
 <link href='../../fonts.googleapis.com/css4673.css?family=Lato:300,400,700,900' rel='stylesheet' type='text/css' />
@@ -77,9 +77,9 @@
 				<div class="header-sec">
 					<div class="col-md-6">
 						<div class="app-header-info">
-							<span>REPARACIÓN Y VENTA DE </span>
-							<h1>SERVIDOR NAS</h1>
-							<h2>¿Disco Duro Nas dañado? ¿No enciende?</h2> <h2>¡Tenemos la solución!</h2>
+							<span>REPARACIÓN DE </span>
+							<h1>IMPRESORAS</h1>
+							<h2>¿El papel se atasca en la impresora? ¿Mensaje de error o alarmas?</h2> <h2>¡Tenemos la solución!</h2>
 							<!--<ul class="download-btns">
 								<li>
 									<a href="#" title="" class="fill"><i class="ti-apple"></i><span>Download on the</span><br/>App Store</a>
