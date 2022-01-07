@@ -130,12 +130,12 @@
 	
 	<section class="block no-padding dark">
 		<ul class="clients" id="carousal">
-			<li><a href="#" title=""><img src="images/1.png" alt="" height="150"/></a></li>
-			<li><a href="#" title=""><img src="images/2.png" alt="" height="150"></a></li>
-			<li><a href="#" title=""><img src="images/3.png" alt="" height="150"/></a></li>
-			<li><a href="#" title=""><img src="images/4.png" alt="" height="150"/></a></li>
-			<li><a href="#" title=""><img src="images/5.png" alt="" height="150"/></a></li>
-			<li><a href="#" title=""><img src="images/6.png" alt=""height="150"/></a></li>
+			<li><a href="#" title=""><img src="images/marca1.png" alt="" height="150"/></a></li>
+			<li><a href="#" title=""><img src="images/marca2.png" alt="" height="150"></a></li>
+			<li><a href="#" title=""><img src="images/marca3.png" alt="" height="150"/></a></li>
+			<li><a href="#" title=""><img src="images/marca4.png" alt="" height="150"/></a></li>
+			<li><a href="#" title=""><img src="images/marca5.png" alt="" height="150"/></a></li>
+			<li><a href="#" title=""><img src="images/marca6.png" alt=""height="150"/></a></li>
 		</ul>
 	</section>
 	
@@ -214,12 +214,12 @@
 				<div class="prdct-mock">
 					<div class="row">
 						<div class="col-md-6">
-							<img src="images/ims.png" alt="" class="img-responsive"/>
+							<img src="images/impresora.png" alt="" class="img-responsive"/>
 						</div>
 						<div class="col-md-6">
 							<h3>¿Cuáles son los usos normales de una <strong>Impresora</strong>?</h3>
-							<p>Utilice Synology NAS como un dispositivo de almacenamiento en su entorno de virtualización.</p>
-							<p>Proporcione sincronización y uso compartido perfecto de archivos a través de Windows, macOS y Linux.</p>
+							<p>Ya sea escanear, fotocopiar, enviar fax o imprimir, todo en un solo lugar.</p>
+							<p>La impresora es un dispositivo muy util en nuestro dia a dia.</p>
 						</div>
 					</div>
 				</div><!-- Product Mockup -->
@@ -276,7 +276,7 @@
            $sqli=mysqli_query($conn,"
             SELECT *
             FROM `servicios` 
-            WHERE id_categoria_servicio = 19 and id_servicio= 72 or id_servicio = 77  or id_servicio = 67 ORDER BY `id_servicio` DESC");
+            WHERE id_categoria_servicio = 16 and id_servicio= 84 or id_servicio = 85  or id_servicio = 91 ORDER BY `id_servicio` DESC");
            while ($row=mysqli_fetch_array($sqli)){
            ?>
 		<div class="cool-features">	
@@ -313,7 +313,7 @@
            $sqli=mysqli_query($conn,"
             SELECT *
             FROM `servicios` 
-            WHERE id_categoria_servicio = 19 and id_servicio= 69 or id_servicio = 71  or id_servicio = 74 or id_servicio = 73 or id_servicio = 75 or id_servicio = 76 or id_servicio = 78 or id_servicio = 79 or id_servicio = 80 or id_servicio = 81 or id_servicio = 82 or id_servicio = 83 ORDER BY `id_servicio` DESC");
+            WHERE id_categoria_servicio = 16 and id_servicio= 86 or id_servicio = 87  or id_servicio = 88 or id_servicio = 89 or id_servicio = 90 or id_servicio = 92 ORDER BY `id_servicio` DESC");
            while ($row=mysqli_fetch_array($sqli)){
            ?>
 					<div class="col-md-6">
